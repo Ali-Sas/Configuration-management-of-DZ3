@@ -1,0 +1,15 @@
+version: 1
+name: Configuration
+items:
+- 10
+- 20
+- 30
+- 40
+calculation: 3
+nested_items:
+- 1
+- 2
+- 3)
+- []
+- 4
+- 5

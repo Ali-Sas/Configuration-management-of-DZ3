@@ -1,0 +1,5 @@
+*> Личные данные
+name = "Ivan Ivanov"
+def age = 25
+age_in_ten_years = ![age + 10]
+hobbies = (list "reading" "music" "sport")

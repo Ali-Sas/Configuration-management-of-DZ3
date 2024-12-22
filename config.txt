@@ -1,0 +1,6 @@
+*> Это комментарий
+def version = 1
+def name = "Configuration"
+items = (list 10 20 30 40)
+calculation = ![version + 2]
+nested_items = (list (list 1 2 3) (list 4 5))

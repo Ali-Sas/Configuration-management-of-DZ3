@@ -1,0 +1,4 @@
+*> Настройки
+def base = 2
+def exponent = 3
+result = ![pow(base, exponent)]
